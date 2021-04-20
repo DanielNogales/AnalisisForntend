@@ -7,8 +7,8 @@
 |             | Windows Forms |        | Solo Desktop   | Esfuerzo moderado                                    | Maduro, con soporte limitado      | Limitado     |
 |             |ASP Net        ||||||
 |             |   | WebForms           | Web            | Esfuerzo moderado<br>Aprender webforms               | Maduro, con soporte limitado      | Limitado     |
-|             |   | MVC                | Web            | Esfuerzo moderado<br>Aprender MVC                    | Maduro, con soporte limitado      | Limitado     |
-|             |   | SPA                | Web            | Esfuerzo moderado<br>Aprender SinglePageApp          | Maduro, con soporte limitado      | Limitado     |
+|             |   | MVC                | Web            | Esfuerzo moderado<br>Aprender MVC                    | Maduro, con soporte limitado      | Alta         |
+|             |   | SPA                | Web            | Esfuerzo moderado<br>Aprender SinglePageApp          | Maduro, con soporte limitado      | Alta         |
 |.Net Core        ||||||
 |             |ASP Net
 |             |   | MVC                | Web            | Esfuerzo moderado<br>Aprender MVC                     | Maduro, con soporte a fututro    | Alta         |
